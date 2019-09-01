@@ -19,10 +19,10 @@ class SinaUserSpider(scrapy.Spider):
         }
 
         self.cookies = {
-            'SCF': 'Al6oYEOIHG6uNyht6TbHJp7SLcrD339k-BxY3pGt5lGPZyZ3AzUo06ViWBPnaNv0KmkdfjZM2l-Om8g7ID6QdLQ.',
-            'SUB': '_2A25wERk0DeRhGeVG7FcZ9yvPzT-IHXVT_ad8rDV6PUJbkdAKLRbSkW1NT5gs2CiaURmtMaZbhWzmdEvfYno07yQM',
-            'SUHB': '0JvgjOCg8alBIo',
-            '_T_WM': 80799919764
+            'SCF': 'XXXXXXXXXXXXXXXXXXXXXX',
+            'SUB': 'XXXXXXXXXXXXXXXXXXXXXXXXX',
+            'SUHB': 'XXXXXXXXXX',
+            '_T_WM': 0000000000000
         }
 
     def start_requests(self):
